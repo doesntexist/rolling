@@ -1,5 +1,3 @@
  <?php
- echo "I am VERSION FIVE";
- echo "My Pod IP is : ".$_SERVER['SERVER_ADDR'] ."";
- echo "My URL is: ".$_SERVER['SERVER_NAME']."";
+ echo "I am VERSION ONE ::: My Pod IP is $_SERVER['SERVER_ADDR'] ::: My URL is $_SERVER['SERVER_NAME'] <br>";
 ?>
